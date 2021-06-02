@@ -39,11 +39,12 @@ public class Employee { // User defined class
                      
               if (choice==1) { // admin can see employee details by enter their id
              System.out.println("=================================================");
-System.out.println("Name : Haaziq" ); System.out.println("Gender : M");
-System.out.println("Id : s2345");
-System.out.println("Position : Inventory Control Specialist");
-System.out.println("Shift :Night");
-System.out.println("Working hour : 12");
+			 System.out.println("Name : Haaziq" );
+		     System.out.println("Gender : M");
+		     System.out.println("Id : s2345");
+			 System.out.println("Position : Inventory Control Specialist");
+			 System.out.println("Shift :Night");
+			 System.out.println("Working hour : 12");
              System.out.println("================================================");
              System.out.println("Basic salary :  RM1800 " );
              System.out.println("Overtime payment : RM32" );
@@ -55,12 +56,12 @@ System.out.println("Working hour : 12");
 			}
 			else if (choice==2) {
              System.out.println("===============================================");
-System.out.println("Name : Salena " );
-System.out.println("Gender : F");
-System.out.println("Id : s4567");
-System.out.println("Position : Cashier");
-System.out.println("Shift :Morning");
-System.out.println("Working hour : 8");
+			 System.out.println("Name : Salena " );
+		     System.out.println("Gender : F");
+			 System.out.println("Id : s4567");
+			 System.out.println("Position : Cashier");
+			 System.out.println("Shift :Morning");
+			 System.out.println("Working hour : 8");
              System.out.println("===============================================");
              System.out.println("Basic salary :  RM1400 " );
              System.out.println("Overtime payment : RM50" );
@@ -73,10 +74,10 @@ System.out.println("Working hour : 8");
 			else {
                 System.out.println("====================================");
 		
-System.out.println("Name : Ady " );
-System.out.println("Gender : M");
-System.out.println("Id : s7899");
-System.out.println("Position : CustomerService Representative");
+                 System.out.println("Name : Ady " );
+				 System.out.println("Gender : M");
+				 System.out.println("Id : s7899");
+				 System.out.println("Position : CustomerService Representative");
 				 System.out.println("Shift :Morning");
 				 System.out.println("Working hour : 12");
                  System.out.println("====================================");
