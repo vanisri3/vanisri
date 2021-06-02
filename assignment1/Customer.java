@@ -21,13 +21,13 @@ System.out.println();
 System.out.println("====== Vanisri's Non-Alcholic Beverage Shop =====");
 	 System.out.println("-----------------------------------------------------");
 System.out.println("Type Of Beverage | Name of Beverage | Beverage Price| ");
-System.out.println("=====================================================");
-	 System.out.println(" 1) Stimulating  |  Coffee       |\t13.00       |");
-	 System.out.println(" 2) Stimulating  |  Tea          |\t15.00       |");
-	 System.out.println(" 3) Refreshing   |  Water        |\t 9.50       |");
-	 System.out.println(" 4) Refreshing   |  Syrup        |\t16.70       |");
-       System.out.println(" 5) Refreshing   |  Orange Juice |\t 5.50       |");
-	 System.out.println(" 6) Nourishing   |  Milk         |\t 7.00       |");
+           System.out.println("===================================================");
+System.out.println(" 1) Stimulating  |  Coffee       |\t13.00       |");
+System.out.println(" 2) Stimulating  |  Tea          |\t15.00       |");
+System.out.println(" 3) Refreshing   |  Water        |\t 9.50       |");
+System.out.println(" 4) Refreshing   |  Syrup        |\t16.70       |");
+System.out.println(" 5) Refreshing   |  Orange Juice |\t 5.50       |");
+System.out.println(" 6) Nourishing   |  Milk         |\t 7.00       |");
 	        System.out.println("======================================================");
 	        
 	        
